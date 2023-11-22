@@ -10,7 +10,6 @@ import React, { useState } from "react";
 
 import colors from "../../colors";
 import { StackParamsList } from "../../routes/app.routes";
-
 import { useNavigation } from "@react-navigation/native";
 import { StackNavigationProp } from "@react-navigation/stack";
 import api from "../../services/api";
